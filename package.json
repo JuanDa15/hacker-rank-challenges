@@ -1,0 +1,20 @@
+{
+  "name": "hacker-rank-challenges",
+  "version": "1.0.0",
+  "description": "In this project i will upload some hacker rank challenge solutinos",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js --watch"
+  },
+  "keywords": [
+    "node",
+    "'hacker",
+    "rank'",
+    "javascript",
+    "'logic",
+    "programming'"
+  ],
+  "author": "Juan David Osorio < JuanDa15 >",
+  "license": "MIT"
+}
